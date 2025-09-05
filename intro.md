@@ -40,6 +40,5 @@ By the end of this journey, you'll have the skills to code your own neural netwo
 
 Now… get ready to code your first neuron!
 
-
 ```{tableofcontents}
 ```
