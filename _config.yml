@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: From Neuron to Narrative
+title: A Scratch Guide to ANNs, CNNs, RNNs, and LLMs
 author: Xiaoguang Li
 logo: logo.png
 

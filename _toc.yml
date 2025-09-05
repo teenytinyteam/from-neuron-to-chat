@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: PART ONE - ARTIFICIAL NEURAL NETWORKS
+  - caption: Part 1 - Artificial Neural Networks
     chapters:
       - file: 01-artificial-neural-networks/01-linear-prediction
       - file: 01-artificial-neural-networks/02-mean-squared-error
