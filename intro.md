@@ -1,6 +1,6 @@
-# FROM NEURON TO NARRATIVE
+# A Scratch Guide to ANNs, CNNs, RNNs, and LLMs
 
-Welcome to *From Neuron to Narrative: A Scratch Guide to ANNs, CNNs, RNNs, and LLMs*! 
+Welcome to *From Neuron to Narrative*! 
 
 This book is your hands-on guide to understanding and coding the essential foundations of neural networks without hiding behind libraries or pre-built frameworks.
 
