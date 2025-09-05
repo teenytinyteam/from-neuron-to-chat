@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: PART ONE - ARTIFICIAL NEURAL NETWORKS
+    chapters:
+      - file: 01-artificial-neural-networks/01-linear-prediction
+      - file: 01-artificial-neural-networks/02-mean-squared-error
+      - file: 01-artificial-neural-networks/03-gradient-descent
