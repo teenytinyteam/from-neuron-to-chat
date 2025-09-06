@@ -9,3 +9,9 @@ parts:
       - file: 01-artificial-neural-networks/01-linear-prediction
       - file: 01-artificial-neural-networks/02-mean-squared-error
       - file: 01-artificial-neural-networks/03-gradient-descent
+      - file: 01-artificial-neural-networks/04-learning-rate
+      - file: 01-artificial-neural-networks/05-iteration
+      - file: 01-artificial-neural-networks/06-batch
+      - file: 01-artificial-neural-networks/07-epoch
+      - file: 01-artificial-neural-networks/08-hidden-layer
+      - file: 01-artificial-neural-networks/09-activation-function
