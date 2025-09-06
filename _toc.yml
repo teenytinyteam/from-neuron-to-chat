@@ -18,3 +18,11 @@ parts:
   - caption: Part 2 - Neural Network Framework
     chapters:
       - file: 02-neural-network-framework/01-linear-prediction
+      - file: 02-neural-network-framework/02-mean-squared-error
+      - file: 02-neural-network-framework/03-gradient-descent
+      - file: 02-neural-network-framework/04-learning-rate
+      - file: 02-neural-network-framework/05-iteration
+      - file: 02-neural-network-framework/06-batch
+      - file: 02-neural-network-framework/07-epoch
+      - file: 02-neural-network-framework/08-hidden-layer
+      - file: 02-neural-network-framework/09-activation-function
