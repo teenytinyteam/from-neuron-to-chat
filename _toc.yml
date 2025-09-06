@@ -15,3 +15,6 @@ parts:
       - file: 01-artificial-neural-networks/07-epoch
       - file: 01-artificial-neural-networks/08-hidden-layer
       - file: 01-artificial-neural-networks/09-activation-function
+  - caption: Part 2 - Neural Network Framework
+    chapters:
+      - file: 02-neural-network-framework/01-linear-prediction
