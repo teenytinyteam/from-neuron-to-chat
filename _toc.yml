@@ -54,5 +54,17 @@ parts:
           - file: large-language-models/01-word-embedding/04-token-embedding
           - file: large-language-models/01-word-embedding/05-positional-embedding
       - file: large-language-models/02-self-attention
+        sections:
+          - file: large-language-models/01-word-embedding/01-attention
+          - file: large-language-models/01-word-embedding/02-weighted-attention
+          - file: large-language-models/01-word-embedding/03-causal-attention
+          - file: large-language-models/01-word-embedding/04-multi-head-attention
       - file: large-language-models/03-pretraining
+        sections:
+          - file: large-language-models/01-word-embedding/01-text-generation
+          - file: large-language-models/01-word-embedding/02-feed-forward
+          - file: large-language-models/01-word-embedding/03-gelu
+          - file: large-language-models/01-word-embedding/04-normalization
+          - file: large-language-models/01-word-embedding/05-shortcut-connection
+          - file: large-language-models/01-word-embedding/06-transformer-block
       - file: large-language-models/04-fine-tuning
