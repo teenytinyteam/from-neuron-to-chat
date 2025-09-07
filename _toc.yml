@@ -6,41 +6,41 @@ root: intro
 parts:
   - caption: Neural Networks from Scratch
     chapters:
-      - file: neural-networks-from-scratch/01-artificial-neural-networks
+      - file: neural-networks/01-artificial-neural-networks
         sections:
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/01-linear-prediction
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/02-mean-squared-error
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/03-gradient-descent
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/04-learning-rate
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/05-iteration
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/06-batch
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/07-epoch
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/08-hidden-layer
-        - file: neural-networks-from-scratch/01-artificial-neural-networks/09-activation-function
-      - file: neural-networks-from-scratch/02-neural-network-framework
+        - file: neural-networks/01-artificial-neural-networks/01-linear-prediction
+        - file: neural-networks/01-artificial-neural-networks/02-mean-squared-error
+        - file: neural-networks/01-artificial-neural-networks/03-gradient-descent
+        - file: neural-networks/01-artificial-neural-networks/04-learning-rate
+        - file: neural-networks/01-artificial-neural-networks/05-iteration
+        - file: neural-networks/01-artificial-neural-networks/06-batch
+        - file: neural-networks/01-artificial-neural-networks/07-epoch
+        - file: neural-networks/01-artificial-neural-networks/08-hidden-layer
+        - file: neural-networks/01-artificial-neural-networks/09-activation-function
+      - file: neural-networks/02-neural-network-framework
         sections:
-          - file: neural-networks-from-scratch/02-neural-network-framework/01-linear-prediction
-          - file: neural-networks-from-scratch/02-neural-network-framework/02-mean-squared-error
-          - file: neural-networks-from-scratch/02-neural-network-framework/03-gradient-descent
-          - file: neural-networks-from-scratch/02-neural-network-framework/04-learning-rate
-          - file: neural-networks-from-scratch/02-neural-network-framework/05-iteration
-          - file: neural-networks-from-scratch/02-neural-network-framework/06-batch
-          - file: neural-networks-from-scratch/02-neural-network-framework/07-epoch
-          - file: neural-networks-from-scratch/02-neural-network-framework/08-hidden-layer
-          - file: neural-networks-from-scratch/02-neural-network-framework/09-activation-function
-      - file: neural-networks-from-scratch/03-convolutional-neural-networks
+          - file: neural-networks/02-neural-network-framework/01-linear-prediction
+          - file: neural-networks/02-neural-network-framework/02-mean-squared-error
+          - file: neural-networks/02-neural-network-framework/03-gradient-descent
+          - file: neural-networks/02-neural-network-framework/04-learning-rate
+          - file: neural-networks/02-neural-network-framework/05-iteration
+          - file: neural-networks/02-neural-network-framework/06-batch
+          - file: neural-networks/02-neural-network-framework/07-epoch
+          - file: neural-networks/02-neural-network-framework/08-hidden-layer
+          - file: neural-networks/02-neural-network-framework/09-activation-function
+      - file: neural-networks/03-convolutional-neural-networks
         sections:
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/01-flatten
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/02-dropout
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/03-activation-functions
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/04-convolution-2d
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/05-pool-2d
-          - file: neural-networks-from-scratch/03-convolutional-neural-networks/06-binary-cross-entropy-loss
-      - file: neural-networks-from-scratch/04-recurrent-neural-networks
+          - file: neural-networks/03-convolutional-neural-networks/01-flatten
+          - file: neural-networks/03-convolutional-neural-networks/02-dropout
+          - file: neural-networks/03-convolutional-neural-networks/03-activation-functions
+          - file: neural-networks/03-convolutional-neural-networks/04-convolution-2d
+          - file: neural-networks/03-convolutional-neural-networks/05-pool-2d
+          - file: neural-networks/03-convolutional-neural-networks/06-binary-cross-entropy-loss
+      - file: neural-networks/04-recurrent-neural-networks
         sections:
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/01-one-hot-encoding
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/02-embedding
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/03-recurrent
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/04-cross-entropy-loss
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/05-long-short-term-memory
-          - file: neural-networks-from-scratch/04-recurrent-neural-networks/06-adaptive-moment-estimation
+          - file: neural-networks/04-recurrent-neural-networks/01-one-hot-encoding
+          - file: neural-networks/04-recurrent-neural-networks/02-embedding
+          - file: neural-networks/04-recurrent-neural-networks/03-recurrent
+          - file: neural-networks/04-recurrent-neural-networks/04-cross-entropy-loss
+          - file: neural-networks/04-recurrent-neural-networks/05-long-short-term-memory
+          - file: neural-networks/04-recurrent-neural-networks/06-adaptive-moment-estimation
