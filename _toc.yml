@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Neural Networks from Scratch
+  - caption: Neural Networks
     chapters:
       - file: neural-networks/01-artificial-neural-networks
         sections:

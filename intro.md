@@ -1,4 +1,4 @@
-# A Scratch Guide to ANNs, CNNs, RNNs, and LLMs
+# Welcome
 
 Welcome to *FROM NEURON TO NARRATIVE*! 
 
