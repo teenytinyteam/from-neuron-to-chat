@@ -44,3 +44,15 @@ parts:
           - file: neural-networks/04-recurrent-neural-networks/04-cross-entropy-loss
           - file: neural-networks/04-recurrent-neural-networks/05-long-short-term-memory
           - file: neural-networks/04-recurrent-neural-networks/06-adaptive-moment-estimation
+  - caption: Large Language Models
+    chapters:
+      - file: large-language-models/01-word-embedding
+        sections:
+          - file: large-language-models/01-word-embedding/01-encode-decode
+          - file: large-language-models/01-word-embedding/02-special-tokens
+          - file: large-language-models/01-word-embedding/03-word-batch
+          - file: large-language-models/01-word-embedding/04-token-embedding
+          - file: large-language-models/01-word-embedding/05-positional-embedding
+      - file: large-language-models/02-self-attention
+      - file: large-language-models/03-pretraining
+      - file: large-language-models/04-fine-tuning
