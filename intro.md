@@ -1,44 +1,39 @@
-# Introduction
+# 前言
 
-Welcome to *FROM NEURON TO NARRATIVE*! 
+欢迎来到《从人工神经元到聊天机器人》的世界！
 
-This book is your hands-on guide to understanding and coding the essential foundations of neural networks without hiding behind libraries or pre-built frameworks.
+这本书将是你的实践指南，带你深入理解并亲手编写神经网络的核心基础，而无需隐藏在任何现成的库或框架之后。
 
-### Why Build from Scratch?
+## 为什么要从零开始？
 
-Most learners begin their AI journey with frameworks like TensorFlow, PyTorch, or Keras. These tools are powerful—but they can also obscure the inner workings of neural networks. By constructing everything yourself, you:
+大多数AI学习者都从 TensorFlow、PyTorch 或 Keras 等框架开始。这些工具无疑是强大的，但它们也可能像一个“黑箱”，掩盖了神经网络的内部工作原理。通过亲手从零构建一切，你将：
 
-* **Master the fundamentals**: you’ll understand precisely how data flows through neurons, how activations work, and how backpropagation adjusts weights.
-* **Build stronger intuition**: you won’t just run code—you'll derive the math, implement it, and visualize what’s happening in each layer.
-* **Become a confident creator**: knowing what’s happening under the hood empowers you to innovate, experiment, and debug with real insight.
+* 掌握核心基础：你将精确地理解数据如何流经神经元、激活函数如何工作、以及反向传播如何调整权重。
+* 建立强大直觉：你将不仅仅是运行代码——你会推导数学公式，将其实现，并能想象出每一层中发生的变化。
+* 成为自信的创造者：真正了解底层原理能让你带着深刻的洞察力去创新、实验和调试。
 
-### What This Book Covers
+## 本书内容
 
-The content is divided into four parts, each focusing on a critical architecture and its conceptual underpinnings:
+本书的内容分为五个循序渐进的部分，每一部分都聚焦于一种关键的架构及其核心概念：
 
-1. **Artificial Neural Networks** - Start with the basics: how individual neurons aggregate inputs, apply activation functions, measure loss, and train using backpropagation and gradient descent.
-2. **Neural Network Framework** - Learn to build a lightweight framework from scratch that cleanly encapsulates layers, forward passes, backpropagation, and common utilities like optimizers and loss functions.
-3. **Convolutional Neural Networks (CNNs)** - Explore the architecture that brought breakthroughs in image recognition: convolution, pooling, feature maps, and training deep CNNs—all written by you.
-4. **Recurrent Neural Networks (RNNs)** - Grasp models suited for sequential data through your own implementation of RNNs, along with LSTM and GRU variants to address learning long-term dependencies.
+* 人工神经网络 (ANN)：从最基础开始：单个神经元如何聚合输入、应用激活函数、衡量损失，以及如何使用反向传播和梯度下降进行训练。
+* 构建神经网络框架：学习从零开始构建一个轻量级的框架，它将干净地封装层、前向传播、反向传播，以及优化器和损失函数等通用组件。
+* 卷积神经网络 (CNN)：探索在图像识别领域带来突破的架构：卷积、池化、特征图。你将亲手编写并训练一个深度CNN。
+* 循环神经网络 (RNN)：通过实现自己的RNN、LSTM和GRU来掌握处理序列数据的模型，并解决长程依赖问题。
+* 大型语言模型 (LLM)：了解驱动现代聊天机器人的核心技术，包括注意力机制和开创性的 Transformer 架构。
 
-### How to Use This Book
+## 如何使用本书
 
-* **Start simple and build up**: We begin with basic code and progressively introduce abstractions to keep complexity manageable.
-* **Python-first learning**: Each concept is demonstrated first in pure Python, then optimized with NumPy for performance and clarity.
-* **Learn by doing**: After each chapter, optional exercises encourage you to push further—experiment with activation functions, implement different optimizers, or apply your network to real data.
-* **Bridge theory and practice**: You’ll see not just *what* to code—but *why*. Key mathematical concepts like chain rule, matrix operations, and convolution will be explained alongside the code.
+* 由简入繁，逐步构建：我们从最基础的代码开始，然后逐步引入抽象概念，以确保复杂性是可控的。
+* 在实践中学习：本书的每一章都与一段核心代码紧密对应。在每一章之后，我们都鼓励你更进一步——尝试不同的激活函数，实现不同的优化器，或将你的网络应用到真实数据上。
+* 连接理论与实践：你不仅会看到要编写什么代码，更会理解为什么这么写。像链式法则、矩阵运算和卷积等关键数学概念，都将在代码的上下文中得到解释。
 
-### Who This Book Is For
+## 本书适合谁
 
-This book is perfect for you if you:
+如果你满足以下条件，那么这本书就是为你量身定做的：
 
-* Are comfortable with Python and basic programming.
-* Have little or no prior experience with neural networks.
-* Want to build a deep, intuitive understanding of how neural networks work—from neurons to frameworks to convolutional and recurrent architectures.
+* 熟悉 Python 和基本的编程概念。
+* 之前很少或没有神经网络的经验。
+* 希望深入、直观地理解神经网络的工作原理——从单个神经元到复杂的卷积和循环架构。
 
-By the end of this journey, you'll have the skills to code your own neural network architectures, understand their behavior, and be ready to dive into more advanced tools—or create your own.
-
-Now… get ready to code your first neuron!
-
-```{tableofcontents}
-```
+在这段旅程的最后，你将拥有编写自定义神经网络架构的技能，理解它们的行为，并准备好深入研究更高级的工具——或者创造你自己的工具。

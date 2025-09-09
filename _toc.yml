@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Neural Networks
+  - caption: 神经元网络
     chapters:
       - file: neural-networks/01-artificial-neural-networks
         sections:
@@ -44,7 +44,7 @@ parts:
           - file: neural-networks/04-recurrent-neural-networks/04-cross-entropy-loss
           - file: neural-networks/04-recurrent-neural-networks/05-long-short-term-memory
           - file: neural-networks/04-recurrent-neural-networks/06-adaptive-moment-estimation
-  - caption: Large Language Models
+  - caption: 大语言模型
     chapters:
       - file: large-language-models/01-word-embedding
         sections:
