@@ -1,1 +1,1 @@
-# Convolutional Neural Networks
+# 卷积神经元网络（CNN）

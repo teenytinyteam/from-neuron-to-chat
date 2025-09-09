@@ -1,1 +1,1 @@
-# Recurrent Neural Networks
+# 循环神经元网络（RNN & LSTM）
